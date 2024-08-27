@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Divyansh90
 - 👀 I’m interested in Data analytics
 - 🌱 I’m currently learning R-studio
-- 💞️ I’m looking to collaborate on R
+- I’m looking to collaborate on R
 - 📫 How to reach me ... divyanshsrivastavds@gmail.com
 
 <!---
